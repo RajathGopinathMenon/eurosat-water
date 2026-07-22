@@ -1,4 +1,4 @@
-# EuroSAT100: Sentinel-2 Water Classification & Band Ablation Study
+# EuroSAT100: Sentinel-2 Water Classification
 
 This repository implements a binary land-cover classification model (Water vs. No Water) using the EuroSAT100 dataset. It contains a band ablation study comparing performance across different Sentinel-2 band sets to verify the importance of spectral bands beyond visible RGB.
 
