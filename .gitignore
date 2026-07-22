@@ -16,7 +16,6 @@ Thumbs.db
 data/
 
 # Model outputs, logs, and checkpoints
-results/
 *.png
 
 # Environments
