@@ -58,7 +58,7 @@ python main.py
 
 ### Dataset Exploration
 
-Run the exploration script to print dataset statistics, class distribution, band-by-band statistics on the train split, and generate visualization grids under the `results/` folder:
+Run the exploration script to print dataset image with RGB and Infrared bands.
 
 ```bash
 python explore.py
